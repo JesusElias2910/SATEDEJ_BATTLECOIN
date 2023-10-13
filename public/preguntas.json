@@ -1,0 +1,242 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "Who wrote 'One Hundred Years of Solitude'?",
+      "respuestas": [
+        {
+          "texto": "Gabriel García Márquez",
+          "correcta": true
+        },
+        {
+          "texto": "Leonardo Sabatella",
+          "correcta": false
+        },
+        {
+          "texto": "Guillermo Fadelli",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "pregunta": "What is the most famous work of the writer 'Albert Camus'?",
+      "respuestas": [
+        {
+          "texto": "The foreigner",
+          "correcta": true
+        },
+        {
+          "texto": "The fall",
+          "correcta": false
+        },
+        {
+          "texto": "The Plague",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "pregunta": "How long does a European basketball game last? ",
+      "respuestas": [
+        {
+          "texto": "45 minutes",
+          "correcta": false
+        },
+        {
+          "texto": "50 minutes",
+          "correcta": false
+        },
+        {
+          "texto": "40 minutes",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "pregunta": "What is Usain Bolt's world record in the 100 meter dash? ",
+      "respuestas": [
+        {
+          "texto": "9,56s",
+          "correcta": false
+        },
+        {
+          "texto": "9,58s",
+          "correcta": true
+        },
+        {
+          "texto": "9,57s",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "pregunta": "When did World War II end? ",
+      "respuestas": [
+        {
+          "texto": "1944",
+          "correcta": false
+        },
+        {
+          "texto": "1945",
+          "correcta": true
+        },
+        {
+          "texto": "1940",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "pregunta": "In what year did the Russian Revolution begin?",
+      "respuestas": [
+        {
+          "texto": "1917",
+          "correcta": true
+        },
+        {
+          "texto": "1919",
+          "correcta": false
+        },
+        {
+          "texto": "1918",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "pregunta": "In what year did 'Star Wars' premiere?",
+      "respuestas": [
+        {
+          "texto": "1995",
+          "correcta": false
+        },
+        {
+          "texto": "1983",
+          "correcta": false
+        },
+        {
+          "texto": "1977",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "pregunta": "Who stars in 'Drive'?",
+      "respuestas": [
+        {
+          "texto": "Bradley Cooper",
+          "correcta": false
+        },
+        {
+          "texto": "Jason Statham",
+          "correcta": false
+        },
+        {
+          "texto": "Ryan Gosling",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "pregunta": "'The Matterhorn' is a famous monument located in which country? ",
+      "respuestas": [
+        {
+          "texto": "Portugal",
+          "correcta": false
+        },
+        {
+          "texto": "Swiss",
+          "correcta": true
+        },
+        {
+          "texto": "Spain",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "pregunta": "What ocean does the Amazon River flow into?",
+      "respuestas": [
+        {
+          "texto": "The Indian",
+          "correcta": false
+        },
+        {
+          "texto": "The Pacific",
+          "correcta": false
+        },
+        {
+          "texto": "The Atlantic",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "pregunta": "Who is considered 'The King of Rock'?",
+      "respuestas": [
+        {
+          "texto": "Elvis Presley",
+          "correcta": true
+        },
+        {
+          "texto": "Freddie mercury",
+          "correcta": false
+        },
+        {
+          "texto": "Michael Jackson",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "pregunta": "Which singer is known as 'El Sol de México'?",
+      "respuestas": [
+        {
+          "texto": "Luis Miguel",
+          "correcta": true
+        },
+        {
+          "texto": "Emanuel",
+          "correcta": false
+        },
+        {
+          "texto": "Miguel Bosé",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "pregunta": "What is the most poisonous animal in the world?",
+      "respuestas": [
+        {
+          "texto": "Snake",
+          "correcta": false
+        },
+        {
+          "texto": "Jellyfish",
+          "correcta": true
+        },
+        {
+          "texto": "Scorpion",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "pregunta": "What species has the most powerful bite in the animal kingdom?",
+      "respuestas": [
+        {
+          "texto": "Hippo",
+          "correcta": false
+        },
+        {
+          "texto": "Shark",
+          "correcta": false
+        },
+        {
+          "texto": "Crocodile",
+          "correcta": true
+        }
+      ]
+    }
+  ]
+  }
