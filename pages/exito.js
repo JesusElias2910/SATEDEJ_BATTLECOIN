@@ -326,7 +326,7 @@ function Preguntas() {
         </form>
         <p>Your answer for the second question is {isCorrectBio ? "correct" : "incorrect"}.</p>
       </div>
-      <button className="btn btn-primary btn-lg" style={{ margin: "20px",  padding: "10px 20px", fontFamily: "Arial", backgroundColor: "blue", color: "white" }}>Terminar juego</button>
+      <button className="btn btn-primary btn-lg" style={{ margin: "20px",  padding: "10px 20px", fontFamily: "Arial", backgroundColor: "blue", color: "white" }}>Know the winner</button>
     </div>
   );
 }
